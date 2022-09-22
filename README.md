@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jkim772
-- 👀 I’m interested in technology, gaming, music, business tactics.
+- 👀 I’m interested in technology, gaming, music, puzzles.
 - 🌱 I’m currently learning the concept of data analysis, and trying to dive deepr into the world of data and coding.
 - 💞️ I’m looking to collaborate on different languages to get a better idea at coding.
 - 📫 How to reach me is at jkim.kim9049@gmail.com
